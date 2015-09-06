@@ -1,0 +1,22 @@
+{
+  "name": "richardpq/patterns-library",
+  "description": "Example of Design's Patterns in PHP",
+  "keywords": "Design's Patterns, Patterns' Library",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Richard Pérez",
+      "email": "richadpq@r2pq.net"
+    }
+  ],
+
+  "require-dev": {
+    "phpunit/phpunit": "4.8.*"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
