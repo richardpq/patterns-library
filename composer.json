@@ -1,7 +1,7 @@
 {
   "name": "richardpq/patterns-library",
   "description": "Example of Design's Patterns in PHP",
-  "keywords": ["Design's Patterns", "Patterns' Library"],
+  "keywords": ["Designs Patterns", "Patterns Library"],
   "minimum-stability": "stable",
   "authors": [
     {
